@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Collecting and Sharing Memories]]></title>
+        <description><![CDATA[Collecting and Sharing Memories]]></description>
+        <link>https://thegrid.ai/memz-ninja/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 08:34:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/memz-ninja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home | Memz Ninja]]></title>
+            <description><![CDATA[<article><h1>Home | Memz Ninja</h1><p>Memz Ninja is a resource for those seeking help in finding information that is accurate and free. Information is listed under various headings to help you quickly find what you need. Visitors can view most of the content without needing to become a registered user.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/251c45154c6214abc8099ebd779bb7f8/noop.gif?input=http%3A%2F%2Fwww.memz.ninja%2Fsites%2Fdefault%2Ffiles%2FMemz_Ninja_logo.gif"></article>]]></description>
+            <link>http://www.memz.ninja/</link>
+            <guid isPermaLink="false">7f7d7004-7479-483a-8727-ac8e67d5a5c7</guid>
+            <pubDate>Sun, 21 Aug 2016 08:34:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
