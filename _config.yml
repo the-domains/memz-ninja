@@ -1,5 +1,5 @@
 layout_spectrum: 0.3701014881953597
-typography_spectrum: 0.5078168113250285
+typography_spectrum: 0.7622243512887508
 color:
   brandStrength: 0.9697043511550874
   lightness: 0.8293826479930431
@@ -12,5 +12,3 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 name: Memz Ninja
-title: Collecting and Sharing Memories
-description: Since 2015
